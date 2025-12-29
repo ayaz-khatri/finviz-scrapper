@@ -1,2 +1,2 @@
 # finviz-scrapper
-Finviz Web Scrapper
+Custom Finviz Scrapper
